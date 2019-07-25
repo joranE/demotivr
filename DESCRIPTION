@@ -11,3 +11,6 @@ Encoding: UTF-8
 LazyData: true
 URL: https://github.com/joranE/demotivr
 BugReports: https://github.com/joranE/demotivr/issues
+Imports: 
+    crayon
+RoxygenNote: 6.1.1
