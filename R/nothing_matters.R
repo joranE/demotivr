@@ -11,8 +11,7 @@ nothing_matters <- function() {
   if (!is.numeric(abuse_level) || abuse_level < 0 || abuse_level > 1 || is.na(abuse_level)){
     abuse_level <- 0.1
   }
-  if (runif(1) <= abuse_level){
-    data(quotes)
+  if (stats::runif(1) <= abuse_level){
     cat(crayon::green(quotes[sample(x = seq_along(quotes),size = 1)]))
   } else{
     invisible(NULL)
