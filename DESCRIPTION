@@ -1,0 +1,13 @@
+Package: demotivr
+Type: Package
+Title: Show Demotivational Messages on Errors
+Version: 0.1.0
+Author: Joran Elias
+Maintainer: Joran Elias <joran.elias@gmail.com>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+URL: https://github.com/joranE/demotivr
+BugReports: https://github.com/joranE/demotivr/issues
