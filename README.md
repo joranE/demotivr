@@ -8,7 +8,7 @@
 <!-- badges: end -->
 
 demotivr allows the user to display random nihilistic and generally
-depressing messages following any error.
+depressing messages after an error.
 
 ## Installation
 
@@ -39,5 +39,14 @@ options(demotivr.abuse_level = 0.5)
 
 If unset (or if not set to a number between 0 and 1) it will default to
 0.1.
+
+After this setup, running code that triggers an error will randomly
+display an additional message:
+
+``` r
+> log("a")
+Error in log("a") : non-numeric argument to mathematical function
+You are never more alone than when you are debugging.
+```
 
 Remember, nothing matters\!
