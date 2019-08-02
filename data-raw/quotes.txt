@@ -10,7 +10,7 @@ This error isn't important because nothing matters.
 This code is written by an idiot, full of errors, signifying nothing. - W. Shakespeare
 What if this is all there is?
 Is this really how you want to spend your short, brutal existence?
-If you delete all your code, it will run just fine!
+If you delete all your code, it will run without errors!
 Have you tried fixing the error by throwing your computer out the window?
 It was probably going to give you the wrong result anyway.
 Once you get this code running, your life will still have no meaning.
@@ -31,3 +31,30 @@ To perceive is to suffer. - Aristotle
 Just starting typing random shit; that might actually work better.
 You still haven't fixed it?
 Still not working, huh?
+Have you tried turning your computer off and then on again?
+Think hard on this failure. It will not be your last.
+The computer knows what you're trying to do. It's just screwing with you.
+There is no spoon.
+This is why no one loves you.
+You could ask someone for help, but you're all alone, aren't you?
+Nothing matters.
+In the grand scheme of things, this error is as insignificant as you are.
+In 100 years no one will remember anything that you've done, including this error.
+Trying is the first step toward failure.
+Failure is always an option.
+Happiness is an illusion.
+Nothing good exists because nothing exists.
+Life is meaningless.
+Everything is nothing.
+Nothing is all there is.
+Civilization will end soon and then software bugs won't matter.
+It doesn't matter than no one loves you because love is an illusion.
+Nothing exists, including this bug, so just ignore it.
+There is no hope, because nothing is all there is.
+Optimism is just a form of self-delusion.
+Don't feel too bad, most other people are failures too.
+Mistakes are a normal part of life. (For you.)
+Things will only get worse from here.
+Pretty soon we'll all be dead, but this code will continue failing forever.
+How many times have you tried running the exact same code expecting different results?
+No can fail forever. (Probably.)
