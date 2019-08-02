@@ -52,4 +52,9 @@ Error in log("a") : non-numeric argument to mathematical function
 You are never more alone than when you are debugging.
 ```
 
+## Related Work
+
+If abuse is something you seek out, you can also check out the function `demotivate()`
+in the package [dang](https://cran.r-project.org/web/packages/dang/index.html).
+
 Remember, nothing matters!
